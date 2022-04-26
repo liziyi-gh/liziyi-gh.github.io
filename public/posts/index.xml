@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ziyi 的小屋</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on ziyi 的小屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Apr 2022 23:59:48 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一次搭建 Hugo 博客</title>
+      <link>http://example.org/posts/build_hugo/</link>
+      <pubDate>Sat, 02 Apr 2022 23:59:48 +0800</pubDate>
+      
+      <guid>http://example.org/posts/build_hugo/</guid>
+      <description>&lt;p&gt;过程记录&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

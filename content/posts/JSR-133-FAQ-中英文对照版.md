@@ -2,6 +2,7 @@
 title: "JSR 133 FAQ 中英文对照版"
 date: 2022-04-24T00:03:01+08:00
 draft: true
+author: ziyi
 ---
 
 ### What is a memory model, anyway?

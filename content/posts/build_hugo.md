@@ -1,7 +1,8 @@
 ---
 title: "搭建本站"
 date: 2022-04-02T23:59:48+08:00
-draft: false
+draft: true
+author: ziyi
 ---
 <!-- 搭建 hugo 的过程记录 -->
 <!-- <\!--more-\-> -->

@@ -1,20 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ziyi 的小屋</title>
-    <link>http://example.org/</link>
-    <description>Recent content on ziyi 的小屋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 Apr 2022 23:59:48 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>第一次搭建 Hugo 博客</title>
-      <link>http://example.org/posts/build_hugo/</link>
-      <pubDate>Sat, 02 Apr 2022 23:59:48 +0800</pubDate>
-      
-      <guid>http://example.org/posts/build_hugo/</guid>
-      <description>&lt;p&gt;过程记录&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ziyi 的小屋</title>
+        <link>http://example.org/</link>
+        <description>关于 LoveIt 主题</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 14 Apr 2023 23:34:34 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Level DB 源码解析 (1): 跳表</title>
+    <link>http://example.org/posts/leveldb-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-1-%E8%B7%B3%E8%A1%A8/</link>
+    <pubDate>Fri, 14 Apr 2023 23:34:34 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/leveldb-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90-1-%E8%B7%B3%E8%A1%A8/</guid>
+    <description><![CDATA[Level DB 以 2023/04/14 最新 commit 77d66aa 代码为准。 跳表简介 跳表就是在有序单链表上建立多级索引的数据结构，各级索引同样是有序的。 把原本的有序单链表称作 0 级索引，一直建]]></description>
+</item></channel>
 </rss>

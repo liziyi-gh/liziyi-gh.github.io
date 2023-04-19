@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://liziyi-gh.github.io/"
 # [en, zh-cn, fr, ...] 设置默认的语言
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写
@@ -127,11 +127,11 @@ theme = "LoveIt"
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/avatar.png"
+          # avatarURL = "/images/avatar.png"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "四海之内皆兄弟也"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
